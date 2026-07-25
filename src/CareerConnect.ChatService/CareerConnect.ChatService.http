@@ -1,0 +1,6 @@
+@CareerConnect.ChatService_HostAddress = http://localhost:5197
+
+GET {{CareerConnect.ChatService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
